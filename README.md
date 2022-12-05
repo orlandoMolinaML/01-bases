@@ -1,1 +1,2 @@
 # Notas
+Se inicializa proyecto
